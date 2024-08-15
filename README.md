@@ -27,23 +27,17 @@
 
 ## Metric
 - Accuracy
-- min t-DCF
-- EER
+- min t-DCF (tandem detection cost function)
+- EER (Equal Error Rate)
 
 ## Our Experiment
-- 
-
-## Baseline
-
-- [ASVspoof Challenge 2021](https://github.com/asvspoof-challenge/2021)
- ![Baseline Score](base-line-score.png)
-
+- ![Results](Results.png)
 
 ## Deploy on 
-- 
+- pythonanywhere by ANACONDA
 
 ## Framework
-- 
+- Django
 
 ## Check our website here 🚀🚀🚀
 - https://vocalsense.pythonanywhere.com/
