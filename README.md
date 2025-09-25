@@ -10,14 +10,7 @@
 - [Mozilla Common Voice Corpus 16.1](https://commonvoice.mozilla.org/th/datasets) First Validated 10000 files (Bonafide)
 - [AI For Thai](https://aiforthai.in.th/corpus.php) Fake audio for thai voice 49891 files (Spoof)
 
-## Front-end
-- **Raw**
-
-- **Handcrafted Feature**
-  - LFCC
-  - Mel spectrogram
-- **Feature Extractor**
-  - [Wav2vec](https://huggingface.co/facebook/wav2vec2-base-960h)
+- ![Dataset](Dataset.png)
 
 ## Classifier
 - RawNet2
@@ -33,11 +26,6 @@
 ## Our Experiment
 - ![Results](Results.png)
 
-## Deploy on 
-- pythonanywhere by ANACONDA
-
-## Framework
-- Django
-
 ## Check our website here 🚀🚀🚀
 - https://vocalsense.pythonanywhere.com/
+- [hoempage](homepage.jpg)
