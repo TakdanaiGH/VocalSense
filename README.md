@@ -1,5 +1,5 @@
 # AI Voice Detector
-- The system focuses on comparing metric outputs from Handcraft Feature, Transformer models, and attempting to enhance Rawnet2 with them. 📑[Report](NSC_report.pdf)
+- The system focuses on comparing metric outputs from Handcraft Feature, Transformer models, and attempting to enhance Rawnet2 with them. 📑[Report](VocalSense_Poster.pdf)
 
 ## Dataset
 
@@ -28,4 +28,4 @@
 
 ## Check our website here 🚀🚀🚀
 - https://vocalsense.pythonanywhere.com/
-- ![Hoempage](Homepage.jpg)
+- ![Hoempage](Homepage.png)
